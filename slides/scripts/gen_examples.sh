@@ -9,7 +9,7 @@ do
     NAME=$(basename $FILE .pdf)
     echo "<div class=\"slide-example\">"
     echo "<h3>$NAME</h3>"
-    if [ ! -f $NAME.github ]
+    if [ ! -f $(echo $FILE | sed 's/\.pdf//').github ]
     then
         echo "<a href=\"$URL/$FILE\" target=\"_blank\">Slides in PDF</a>"
     fi
@@ -31,7 +31,7 @@ do
         echo "<a href=\"$LINK\" target=\"_blank\">Slides in TEX</a>"
     elif [ -f $DIR/$NAME.github ]
     then
-        LINK=$URL/$DIR/$NAME.github
+        LINK=$(cat $DIR/$NAME.github)
         echo "<a href=\"$LINK\" target=\"_blank\">Slides Template on GitHub</a>"
     elif [ -f $DIR/$NAME.zip ]
     then
