@@ -2,42 +2,27 @@
 
 URL="https://sbseg24.github.io/papers"
 
-DIR=files
+generate_html() {
+    local dir=$1
+    local file=$2
+    while IFS=\; read -r title location authors
+    do
+        echo "<div class=\"slide-example\">"
+        echo "<a href=\"$URL/$dir/$location.pdf\" target=\"_blank\"><h3>$title</h3></a>"
+        echo "$authors"
+        echo "</div>"
+        echo ""
+    done < "$file"
+}
 
-for FILE in $(ls $DIR/*.pdf | sort -r)
-do 
-    NAME=$(basename $FILE .pdf)
-    echo "<div class=\"slide-example\">"
-    echo "<h3>$NAME</h3>"
-    if [ ! -f $(echo $FILE | sed 's/\.pdf//').github ]
-    then
-        echo "<a href=\"$URL/$FILE\" target=\"_blank\">Slides in PDF</a>"
-    fi
-    if [ -f $DIR/$NAME.txt ]
-    then
-        LINK=$(cat $DIR/$NAME.txt)
-        echo "<a href=\"$LINK\" target=\"_blank\">Slides online at Google Drive</a>"
-    elif [ -f $DIR/$NAME.can ]
-    then
-        LINK=$(cat $DIR/$NAME.can)
-        echo "<a href=\"$LINK\" target=\"_blank\">Slides online at Canvas</a>"
-    elif [ -f $DIR/$NAME.pptx ]
-    then
-        LINK=$URL/$DIR/$NAME.pptx
-        echo "<a href=\"$LINK\" target=\"_blank\">Slides in PPTX</a>"
-    elif [ -f $DIR/$NAME.tex ]
-    then
-        LINK=$URL/$DIR/$NAME.tex
-        echo "<a href=\"$LINK\" target=\"_blank\">Slides in TEX</a>"
-    elif [ -f $DIR/$NAME.github ]
-    then
-        LINK=$(cat $DIR/$NAME.github)
-        echo "<a href=\"$LINK\" target=\"_blank\">Slides Template on GitHub</a>"
-    elif [ -f $DIR/$NAME.zip ]
-    then
-        LINK=$URL/$DIR/$NAME.zip
-        echo "<a href=\"$LINK\" target=\"_blank\">Slides in LaTeX</a>"
-    fi 
-    echo "</div>"
-    echo ""
-done
+#echo "<h1>Trilha Principal</h1>"
+#generate_html "files/tp" "slides1.csv"
+
+echo "<h1>XVIII Workshop de Trabalhos de Iniciação Científica e de Graduação (WTICG)</h1>"
+generate_html "files/WTICG/01" "slides_wticg1.csv"
+generate_html "files/WTICG/02" "slides_wticg2.csv"
+generate_html "files/WTICG/03" "slides_wticg3.csv"
+generate_html "files/WTICG/04" "slides_wticg4.csv"
+
+echo "<h1>VIII Salão de Ferramentas</h1>"
+generate_html "files/SF" "slides_sf.csv"
