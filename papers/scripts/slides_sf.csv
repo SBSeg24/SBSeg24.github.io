@@ -1,7 +1,7 @@
 PARDED, uma ferramenta de detecção passiva de malwares com foco em rootkits que utilizam técnicas de ofuscação de tráfego;PARDED;Maickel Trinks, João Gondim, Mateus Terra
 Mininet-Sec: plataforma de experimentação para segurança cibernética em redes programáveis;MininetSec;Italo Valcy S. Brito, Leobino Sampaio
 Web xKaliBurr: uma Plataforma Online para Levantamento de Informações em Pentest em Aplicações na Internet;WebxKaliBurr;Daniel de Barros, Lucas Cabral, João Alves de Oliveira, Felipe Castro, Lucas Soares, Lincoln Rocha, Jose Maria Silva Monteiro Filho, Joaquim Cavalcante-Neto
-APKAnalyzer: Ferramenta de Classificação de Malwares Android Baseada em Multi-view e Seleção de Características Multiobjetivo;APKnalyzer;Philipe Fransozi, Jhonatan Geremias, Eduardo Viegas, Altair Santin
+APKAnalyzer: Ferramenta de Classificação de Malwares Android Baseada em Multi-view e Seleção de Características Multiobjetivo;APKAnalyzer;Philipe Fransozi, Jhonatan Geremias, Eduardo Viegas, Altair Santin
 SACI: Solução para Análise Comportamental Automatizada de Código Infeccioso em SO MS Windows Modernos;SACI;Bernardo Tomasi, Davi Ribeiro, Pedro Henrique Friedrich Ramos, Ruibin Mei, Yago Furuta, Jorge Pires Correia, André Grégio
 EXSS: Um Emulador Educativo de Ataques Cross-Site Scripting;EXSS;Bianca Guarizi, Isabela Alves, Júlia Souza, Guilherme Pimentel, João Watanabe, Dalbert Mascarenhas, Ian Vilar Bastos, Marcelo Rubinstein, Igor Moraes
 MalSynGen: redes neurais artificiais na geração de dados tabulares sintéticos para detecção de malware;MalSynGen;Angelo Diniz, Kayuã Paim, Rodrigo Mansilha, Hendrio Luis Bragança, Diego Kreutz
