@@ -1,6 +1,6 @@
 #!/bin/bash
 
-URL="https://sbseg24.github.io/slides"
+URL="https://sbseg24.github.io/papers"
 
 DIR=files
 

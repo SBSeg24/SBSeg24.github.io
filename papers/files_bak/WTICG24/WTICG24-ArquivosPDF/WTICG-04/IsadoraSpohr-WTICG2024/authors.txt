@@ -1,0 +1,9 @@
+Detecção de Intrusões na Internet das
+Coisas (IoT): Um Ambiente de
+Experimentação para Obtenção de Dados
+Reais sobre Protocolos Emergentes
+Isadora F. Spohr1, Douglas R. Fideles2, Silvio E. Quincozes2,3
+Juliano F. Kazienko1, Vagner E. Quincozes4
+UFSM1, UFU2, UNIPAMPA3, UFF4
+
+

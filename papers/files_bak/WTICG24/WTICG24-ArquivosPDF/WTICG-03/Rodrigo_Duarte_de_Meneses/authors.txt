@@ -1,0 +1,7 @@
+Compact Memory Implementations of the ML-DSA
+Post-Quantum Digital Signature Algorithm
+R. D. Meneses, C. Teixeira, M. A. A. Henriques
+16 de Setembro, 2024
+1
+
+

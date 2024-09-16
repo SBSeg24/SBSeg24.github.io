@@ -1,0 +1,10 @@
+Evaluating the network traffic
+on an improved version of the
+Committeeless Proof-of-Stake
+blockchain consensus
+algorithm
+George Gigilas Junior, Filipe F. Ferreira,
+Marco A. A. Henriques
+Universidade Estadual de Campinas Unicamp
+
+
