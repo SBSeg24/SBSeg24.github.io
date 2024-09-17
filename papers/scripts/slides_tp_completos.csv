@@ -1,0 +1,47 @@
+A Triad of Defenses to Mitigate Poisoning Attacks in Federated Learning;241712_5;Blenda Oliveria Mazetto, Bruno Zarpelão
+Abrindo a Caixa-Preta – Aplicando IA Explicável para Aprimorar a Detecção de Sequestros de Prefixo;240764_5;Adriano Carvalho, Brivaldo da Silva Jr, Carlos Alberto da Silva, Ronaldo Ferreira
+Além do Sinal: Autenticação Biofísica com Wi-Fi CSI e Raspberry Pi;241787_5;Eduardo Trindade, Felipe de Almeida, Lourenço Pereira Júnior
+Best Cryptanalysis of Lightweight cipher FUTURE;241733_5;Gabriel de Carvalho, Luis Kowada
+Bifocal Agent: Identificando automaticamente funções maliciosas para aumentar o foco do analista de malware;241689_5;Leonardo Chahud, Idilio Drago, Rafael Rocha, Lourenço Pereira Júnior
+Caracterização de conhecimentos e comportamentos de cibersegurança: Estudo exploratório com dados predominantes do extremo norte brasileiro;241433_5;Marcelo Henrique Oliveira Henklain, Felipe Lobo, Eduardo Feitosa, Luiz G. Dallagnol Cavalcante, José V. Rocha Alencar, Vitor J. Carneiro Bríglia, Guilherme Miranda Araújo, Guilherme da Silva Alves
+Case Study: Parallel Network Topologies Between Redundant OT Networks Implemented with Different Protocols;241372_5;Otávio Gomes, Luiz Vermaas, Lucas Dias
+Classificação de Risco de Vulnerabilidades de Segurança via Processos Gaussianos e Aprendizado Ativo;241782_5;Davyson Ribeiro, Rafael Lemos, Francisco Ponte, César Lincoln Mattos, Emanuel Rodrigues
+Comprehensive Ransomware Detection: Optimization of Feature Selection through Machine Learning Algorithms and Explainable AI on Memory Analysis;241693_5;Lucas Leonel Araújo, Diego Molinos, Rodrigo Miani
+Cross-Site Script Inclusion: um estudo das estratégias de mitigação e atual prevalência da vulnerabilidade em navegadores;240767_5;Henrique de Miranda, Henrique Ferraz Arcoverde, Renan Oliveira, Luiz Henrique Correia
+Cutting dimensions in the LLL attack for the ETRU post-quantum cryptosystem;240859_5;Thiago do Rego Sousa, Tertuliano Souza Neto, Augusto Silva
+D-NAC: Controle de acesso distribuído para redes de dados nomeados;241766_5;Italo Valcy S. Brito, Katharine Schramm Rodrigues, Leobino Sampaio
+Descriptografando: Experimento em Análise de Memória Volátil Aplicada à Defesa Contra Ransomware;241511_5;Ana Bravin Mazur, Paulo de Oliveira, Luciana Martimiano
+Detecção de Ataques de GPS em Veículos Aéreos Não Tripulados com Classificação Multiclasse;241445_5;Gustavo Gualberto Rocha de Lemos, Rodrigo Augusto Cardoso da Silva
+Detecção de Ataques de Negação de Serviço Distribuídos com Algoritmos de Aprendizado de Máquina;241684_5;Rodrigo Rosa Silva, Dalbert Mascarenhas, Felipe Henriques, Igor Moraes
+Detecção de Intrusão Através de Redes Neurais Profundas com Saídas Antecipadas para Inferência Rápida e Confiável;241485_5;João Simioni, Eduardo Viegas, Altair Santin, Pedro Horchulhack
+Detecção de Mídias Pornográficas em Dispositivos com Recursos Limitados para Controle Parental;241486_5;Jhonatan Geremias, Eduardo Viegas, Altair Santin, Jackson Mallmann
+Detecção de Varreduras de Portas pela Análise Inteligente de Tráfego de Rede IoT;241769_5;Uelinton Brezolin, Fernando Nakayama, Michele Nogueira
+Detecção Hierárquica Confiável de Malware de Android Baseado em Arquiteturas CNN;241490_5;Jhonatan Geremias, Eduardo Viegas, Altair Santin, Pedro Horchulhack, Alceu Britto Jr
+DogeFuzz: A Simple Yet Efficient Grey-box Fuzzer for Ethereum Smart Contracts;241431_5;Ismael Medeiros, Fausto Silva, Alexandre Ferreira, Fabiano Cavalcanti Fernandes, Rodrigo Bonifacio
+DoH Deception: Evading ML-Based Tunnel Detection Models with Real-world Adversarial Examples;241637_5;Emanuel de Alcantara Valente, Andre Osti, Júlio Estrella, Lourenço Pereira Júnior
+ECO-SA: Estratégia de Contenção Otimizada da Propagação em Câmaras de Eco utilizando Simulated Annealing;241730_5;Nicollas Oliveira, Dianne Medeiros, Diogo Mattos
+Exploring Digital Signatures Secrecy in Web-Platform: a Client-Side Cryptographic Operations;241786_5;Wellington Silvano, Gabriel Cabral, Lucas Mayr, Frederico Schardong, Ricardo Custódio
+Identificação de Serviços e Dispositivos em Dados de Motores de Busca para o Enriquecimento de Análise de Vulnerabilidades;241721_5;Lucas Ponce, Indra Matsiendra Ribeiro, Etelvina Oliveira, Italo Cunha, Dorgival Guedes, Wagner Meira Jr.
+Impacto do Aprendizado de Máquina Adversário contra Detectores de Anomalias em Séries Temporais;241416_5;Felipe Tomazeli, Gilberto Fernandes Junior, Bruno Zarpelão
+Implementação e avaliação da cifra de fluxo Forro14 em hardware programável Tofino usando a linguagem P4;241483_5;Rodrigo Pierini, Caio Teixeira, Christian Esteve Rothenberg, Marco Aurelio Amaral Henriques
+IWSHAP: Um Método de Seleção Incremental de Características para Redes CAN baseado em Inteligência Artificial Explicável (XAI);241780_5;Felipe Scherer, Felipe Dresch, Silvio Quincozes, Diego Kreutz, Vagner Quincozes
+k-DynMix: Um Mecanismo de Proteção Dinâmica de Privacidade em Mix-Zones;241574_5;Ekler Mattos, Augusto Domingues, Heitor Ramos, Fabrício Silva, Antonio Alfredo Ferreira Loureiro
+Kill Chain Catalyst for Autonomous Red Team Operations in Dynamic Attack Scenarios;241371_5;Antonio Jose Horta Neto, Ronaldo Goldschmidt, Anderson Fernandes Pereira dos Santos
+Lattice Base Reduction Attack on Matrix NTRU;240851_5;Thiago do Rego Sousa, Tertuliano Souza Neto
+Modelos Interpretáveis com Inteligência Artificial Explicável (XAI) na Detecção de Intrusões em Redes Intra-Veiculares Controller Area Network (CAN);241421_5;Felipe Scherer, Felipe Dresch, Silvio Quincozes, Diego Kreutz
+Modified versions of ML-KEM based on Brazilian government cryptographic resources;241449_5;Vinícius Costa, Beatriz Lima, Mateus Filomeno, Moisés Ribeiro
+O Impacto de Software Anti-cheat na Privacidade do Usuário;241475_5;Vinicius Matheus, Tiago Heinrich, Vinicius Fulber-Garcia, Newton Will, Rafael Obelheiro, Carlos Maziero
+Observação de Ataques contra a Memória do Kernel Android: Desafios e Soluções;241778_5;Claudio Torres Junior, Jorge Correia, Marco Alves, João Pincovscy, André Grégio
+Obsolescência não-Programada: Análise do Uso de Software Desatualizado em Ambiente de Produção;241435_5;Luan Marko, Ulisses Penteado, Paulo Ricardo de Almeida, André Grégio
+On-Device Network Intrusion Detection for Resource-Constrained Devices of the Internet of Things;241788_5;Jefferson Cavalcante, Jose Souza, Tiago Barros
+Practical algorithms and parameters for modification-tolerant signature scheme;241677_5;Anthony Kamers, Thaís Bardini Idalino, Gustavo Zambonin, Paola Abel, Jean Martina
+SAPO-BOI: Pulando a Pilha de Rede no Desenvolvimento de um NIDS Baseado em BPF/XDP;240768_5;Raphael Machnicki, Vinicius Fulber-Garcia, André Grégio, Ulisses Penteado, Jorge Correia
+SECAdvisor: a Tool for Cybersecurity Planning using Economic Models;240810_5;Muriel Franco, Christian Omlin, Oliver Kamer, Eder John Scheid, Lisandro Zambenedetti Granville, Burkhard Stiller
+SIM-Ciber: Uma Solução Baseada em Simulações Probabilísticas para Quantificação de Riscos e Impactos de Ciberataques Utilizando Relatórios Estatísticos;241682_5;João Davi Martins Nunes, Muriel Franco, Laura Soares, Henrique Lindemann, Geancarlo Kozenieski, Eder John Scheid, Jeferson Campos Nobre, Lisandro Zambenedetti Granville
+ToID: Reputação Baseada em Identificadores Descentralizados Para Aplicações Distribuídas;241757_5;Antonio Sousa, Leobino Sampaio, Allan Freitas
+Trust, but Verify: Evaluating Developer Behavior in Mitigating Security Vulnerabilities in Open-Source Software;241765_5;Janislley Oliveira de Sousa, Bruno Farias, Eddie Lima Filho, Lucas Cordeiro
+Um esquema baseado em blockchain por Proof-of-Download para gerenciamento de direitos digitais e detecção de traidores;241759_5;João Tito Silva, Felipe Zimmerle, João Gondim
+Uma Análise Compreensiva e Exaustiva de Métodos de Seleção de Características para Detecção de Malware Android;241728_5;Vanderson Rocha, Diego Kreutz, Hendrio Luis Bragança, Joner Assolin, Nicolas Pinto, Eduardo Feitosa
+Uma Arquitetura baseada em Inteligência Artificial Explicável (XAI) para Sistemas de Detecção de Intrusões Explicáveis em Subestações Elétricas;241370_5;Camilla Quincozes, Henrique Oliveira, Silvio Quincozes, Rodrigo Miani, Vagner Quincozes
+Uso do TF-IDF na Comparação de Dados para Detecção de Ransomware;240700_5;Augusto Parisot, Lucila Bento, Raphael Machado
+Utilizando Estratégias de Monitoramento Leve em Ambientes Conteinerizados para Detecção de Anomalias via HIDS;241469_4;Anderson Frasão, Tiago Heinrich, Vinicius Fulber-Garcia, Newton Will, Rafael Obelheiro, Carlos Maziero
