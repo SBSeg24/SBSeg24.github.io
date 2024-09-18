@@ -15,12 +15,11 @@ generate_html() {
     done < "$file"
 }
 
-#echo "<h1>Trilha Principal</h1>"
-#generate_html "files/tp" "slides1.csv"
-
 echo "<h1>Trilha Principal – Trabalhos Completos</h1>"
 generate_html "files/TP/Completos" "slides_tp_completos.csv"
 
+echo "<h1>Trilha Principal – Trabalhos Curtos</h1>"
+generate_html "files/TP/Curtos" "slides_tp_curtos.csv"
 
 echo "<h1>XVIII Workshop de Trabalhos de Iniciação Científica e de Graduação (WTICG)</h1>"
 generate_html "files/WTICG/01" "slides_wticg1.csv"
