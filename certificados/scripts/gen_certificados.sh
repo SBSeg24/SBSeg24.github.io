@@ -35,7 +35,6 @@ generate_html_revisor() {
     done < "$DIR.csv"
 }
 
-
 for i in tp ctdseg sf wticg
 do
     cat "files/$i.html"
