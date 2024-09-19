@@ -1,9 +1,0 @@
-Comparando Médias Móveis
-com Integral de Choquet para
-Detectar Anomalias no
-Tráfego de Redes
-Denner Ayres, Abreu Quevedo, Graçaliz Dimuro,
-Giancarlo Lucca, Bruno L. Dalmazo
-FURG
-
-

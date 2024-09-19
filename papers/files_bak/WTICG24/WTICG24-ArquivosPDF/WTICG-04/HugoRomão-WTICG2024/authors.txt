@@ -1,10 +1,0 @@
-Construção e teste de app
-gamificado gerador de senhas fortes
-e memoráveis:
-Um estudo exploratório em
-cibersegurança
-Hugo Lima Romão, Marcelo Henrique Oliveira
-Henklain, Felipe Leite Lobo e Eduardo Luzeiro
-Feitosa
-
-
