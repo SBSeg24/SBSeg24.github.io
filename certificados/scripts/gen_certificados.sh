@@ -36,7 +36,7 @@ generate_html_revisor() {
 }
 
 
-for i in sf # tp ctdseg wticg
+for i in tp ctdseg sf wticg
 do
     cat "files/$i.html"
     generate_html "files/$i"
