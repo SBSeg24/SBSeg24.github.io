@@ -13,7 +13,8 @@ generate_html() {
         PDF=$(echo $LINHA | cut -d"," -f2)
         TITULO=$(echo $LINHA | cut -d"," -f3-)
         echo "<div class=\"slide-example\">"
-        echo "<a href=\"$URL/$DIR/$PDF\" target=\"_blank\"><h3>[$TIPO] $TITULO</h3></a>"
+        echo "<h3>$TIPO:</h3>"
+        echo "<a href=\"$URL/$DIR/$PDF\" target=\"_blank\"><h3>$TITULO</h3></a>"
         echo "$AUTORES"
         echo "</div>"
         echo ""
@@ -25,13 +26,9 @@ generate_html_revisor() {
     while IFS=\; read -r LINHA
     do
         LINHA=$(echo $LINHA | sed 's/"//g')
-        TIPO=$(echo $LINHA | cut -d"," -f1)
         PDF=$(echo $LINHA | cut -d"," -f2)
         TITULO=$(echo $LINHA | cut -d"," -f3-)
-        echo "<div class=\"slide-example\">"
-        echo "<a href=\"$URL/$DIR/$PDF\" target=\"_blank\"><h3>[$TIPO] $TITULO</h3></a>"
-        echo "</div>"
-        echo ""
+        echo "<a href=\"$URL/$DIR/$PDF\" target=\"_blank\"><h3>$TITULO</h3></a>"
     done < "$DIR.csv"
 }
 
@@ -41,6 +38,10 @@ do
     generate_html "files/$i"
     if [ -d "files/$i/revisores" ]
     then
+        echo "<div class=\"slide-example\">"
+        echo "<h3>Revisores(as) destaque:</h3>"
         generate_html_revisor "files/$i/revisores"
+        echo "</div>"
+        echo ""
     fi
 done
