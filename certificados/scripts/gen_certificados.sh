@@ -32,7 +32,7 @@ generate_html_revisor() {
     done < "$DIR.csv"
 }
 
-for i in tp ctdseg sf wticg
+for i in tp ctdseg sf wticg cta
 do
     cat "files/$i.html"
     generate_html "files/$i"
